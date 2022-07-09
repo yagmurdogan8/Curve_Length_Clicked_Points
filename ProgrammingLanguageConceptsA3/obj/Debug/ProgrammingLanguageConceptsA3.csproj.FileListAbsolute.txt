@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.ViewerForm.resources
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.Properties.Resources.resources
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.csproj.GenerateResource.cache
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\bin\Debug\ProgrammingLanguageConceptsA3.exe.config
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\bin\Debug\ProgrammingLanguageConceptsA3.exe
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\bin\Debug\ProgrammingLanguageConceptsA3.pdb
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.exe
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA3\ProgrammingLanguageConceptsA3\obj\Debug\ProgrammingLanguageConceptsA3.pdb
